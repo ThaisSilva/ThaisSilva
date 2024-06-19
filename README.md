@@ -1,8 +1,8 @@
 ### Oii, tudo bem? 👋
 
 Meu nome é Thaís e atualmente estou em transição de carreira.
-Tive contato com a programação de jogos durante o ensino médio e desde então sou apaixonada por tecnologia, mas fiquei afastada da área por uns anos.
-Agora estou cursando Análise e Desenvolvimento de Sistemas, estudando muito e usando o GitHub para compartilhar meus projetos 🤩
+Tive contato com a programação de jogos durante o ensino médio e desde então sou apaixonada por tecnologia.
+Atualmente estou cursando Análise e Desenvolvimento de Sistemas, estudando muito e usando o GitHub para compartilhar meus projetos 🤩
 
 ⚡ Fun fact: também faço pesquisas sociais e AMO ler.
 
