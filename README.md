@@ -1,4 +1,4 @@
-### Oii, tudo bem? 👋
+## Oii, tudo bem? 👋
 
 Meu nome é Thaís e atualmente estou em transição de carreira.
 Tive contato com a programação de jogos durante o ensino médio e desde então sou apaixonada por tecnologia.
