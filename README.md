@@ -2,7 +2,7 @@
 
 Meu nome é Thaís. tenho 26 anos e atualmente busco me tornar uma desenvolvedora Back-End.
 Tive contato com a programação de jogos durante o ensino médio e desde então sou apaixonada por tecnologia.
-Estou cursando Análise e Desenvolvimento de Sistemas e tirei minha certificação de Cloud Practitionar da AWS recentemente.
+Estou cursando Análise e Desenvolvimento de Sistemas e tirei minha certificação de Cloud Practitioner da AWS recentemente.
 Uso o GitHub para compartilhar meus projetos 🤩
 
 ⚡ Fun fact: também faço pesquisas sociais e AMO ler.
